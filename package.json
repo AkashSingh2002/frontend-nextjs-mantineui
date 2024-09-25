@@ -1,0 +1,20 @@
+{
+  "name": "frontend-nextjs-mantineui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mantine/core": "^7.12.2",
+    "@mantine/hooks": "^7.12.2",
+    "@mantine/notifications": "^7.12.2",
+    "howler": "^2.2.4",
+    "next": "14.2.13",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
